@@ -1,0 +1,52 @@
+/*=======================index.html and index.js===============================*/
+h1{
+	text-align: center;
+}
+#box{
+	text-align: center;
+}
+/*#box0{
+	border: 1px solid;
+	text-align: center;
+}*/
+.box1{
+	text-align: center;
+	margin:20px;
+}
+#box1{
+	border: 1px solid;
+}
+#btn{
+	width: 100px;
+	height:100px;
+	text-align: center;
+}
+#divadd1,#divadd2,#divadd3{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	text-align: center;
+}
+#divadd1{
+	background-color: coral;
+}
+#divadd2{
+	background-color: #369;
+}
+#divadd3{
+	background-color: #339;
+}
+/*=======================index2.html and index2.js===============================*/
+.box-0{
+		text-align: center;
+	}
+#value1,#value2,p,#result{
+	display: inline-block;
+}
+#value1,#value2{
+	border: 1px solid black;
+}
+.box-1{
+	width: 200px;
+	font-size: 
+}
